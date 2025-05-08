@@ -1,0 +1,34 @@
+{
+  "components": [
+    {
+      "label": "Radio group",
+      "values": [
+        {
+          "label": "Aproval",
+          "value": "true"
+        },
+        {
+          "label": "Reject",
+          "value": "false"
+        }
+      ],
+      "type": "radio",
+      "layout": {
+        "row": "Row_1jt7fxs",
+        "columns": null
+      },
+      "id": "Field_0gdfgs4",
+      "key": "approvated",
+      "properties": {}
+    }
+  ],
+  "type": "default",
+  "id": "form_jobWorker_approvated",
+  "executionPlatform": "Camunda Cloud",
+  "executionPlatformVersion": "8.7.0",
+  "exporter": {
+    "name": "Camunda Modeler",
+    "version": "5.34.0"
+  },
+  "schemaVersion": 18
+}
